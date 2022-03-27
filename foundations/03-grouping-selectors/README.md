@@ -1,6 +1,6 @@
 # Grouping Selectors
 
-Let's build a little off the previous exercise, in which you (hopefully) added multiple classes to a single element in order to apply two different rules to it.
+Let's build a liviouttle off the pres exercise, in which you (hopefully) added multiple classes to a single element in order to apply two different rules to it.
 
 Instead of having a single element with two different rules applied, though, you're instead going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
 
