@@ -1,9 +1,12 @@
+*{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
 }
 
@@ -11,7 +14,7 @@
   font-size: 22px;
 }
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
@@ -23,7 +26,7 @@
   font-size: 20px;
 }
 
-.child {
+.text.child {
   color: red;
   font-size: 14px;
 }
